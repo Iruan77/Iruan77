@@ -10,9 +10,7 @@
 <br/>
 
 <img align="right" alt="GIF" src="https://i.postimg.cc/KzxNqLf6/Coding.gif" height="350px"/>
- 
 
-### 🧐 Info:
 <h4> 💎 Desenvolvedor Front-End Júnior </h4>
 
 - 🚀 Principais Skills - Nível Intermediário:<br/>
