@@ -15,15 +15,16 @@
 
 - 🏢 Desenvolvedor Front-End Júnior **
 - 🚀 Principais Skills:
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![SEO](https://img.shields.io/badge/-SEO-414141?style=plastic&&logo=google-analytics)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-336791?style=plastic&logo=adobe-photoshop)
-  ![Photoshop](https://img.shields.io/badge/-Illustrator-black?style=plastic&logo=adobe-illustrator)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-  ![Androi](https://img.shields.io/badge/-Android%20Studio-3b2e5a?style=plastic&logo=android)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+  ![SEO](https://img.shields.io/badge/-SEO-414141?style=for-the-badge&logo=google-analytics)
+  ![WordPress](https://img.shields.io/badge/-WordPress-414141?style=for-the-badge&logo=google-word-press)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-336791?style=for-the-badge&logo=adobe-photoshop)
+  ![Photoshop](https://img.shields.io/badge/-Illustrator-black?style=for-the-badge&logo=adobe-illustrator)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+  ![Androi](https://img.shields.io/badge/-Android%20Studio-3b2e5a?style=for-the-badge&logo=android)
  
 
   
