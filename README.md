@@ -12,8 +12,8 @@
 <img align="right" alt="GIF" src="https://i.postimg.cc/KzxNqLf6/Coding.gif" height="350px"/>
  
 
-<h2> 🧐 Info: </h2>
-#### 💎 Desenvolvedor Front-End Júnior 
+### 🧐 Info:
+<h4> 💎 Desenvolvedor Front-End Júnior </h4>
 
 - 🚀 Principais Skills - Nível Intermediário:<br/>
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
