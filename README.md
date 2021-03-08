@@ -4,7 +4,9 @@
  <abc/>
 </h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Italoruan77-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italoruan77/)]
+[![Linkedin Badge](https://img.shields.io/badge/-Italoruan77-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italoruan77/)](https://www.linkedin.com/in/italoruan77/)
+
+[![Gmail Badge](https://img.shields.io/badge/-italoruan87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:italoruan87@gmail.com)]()
 <br/>
 
 <img align="right" alt="GIF" src="https://i.postimg.cc/KzxNqLf6/Coding.gif" width="380px"/>
