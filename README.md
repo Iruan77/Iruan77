@@ -20,7 +20,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![SEO](https://img.shields.io/badge/-SEO-414141?style=flat-square&logo=google-analytics) 
   ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
-  <br/>
+
   ![Androi](https://img.shields.io/badge/-Android%20Studio-3b2e5a?style=flat-square&logo=android)
   ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-336791?style=flat-square&logo=adobe-photoshop)
