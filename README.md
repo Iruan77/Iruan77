@@ -29,9 +29,6 @@
   ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Androi](https://img.shields.io/badge/-Android%20Studio-3b2e5a?style=for-the-badge&logo=android)
 
- 
-
-  
 - 💻 Aprendendo:
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=for-the-badge&logo=react)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -39,11 +36,4 @@
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   
-  
-  https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
-  
-  
-
-
-
 - ⚡️ Curiosidade: Sempre Buscando Novos Conhecimentos
