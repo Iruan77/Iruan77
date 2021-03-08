@@ -28,7 +28,6 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-336791?style=flat-square&logo=adobe-photoshop)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-black?style=flat-square&logo=adobe-illustrator)
   ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-  ![Androi](https://img.shields.io/badge/-Android%20Studio-3b2e5a?style=flat-square&logo=android)
 
 - 💻 Aprendendo:
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=flat-square&logo=react)
