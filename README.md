@@ -14,23 +14,28 @@
 ### 🧐 Info:
 
 - 🏢 Desenvolvedor Front-End Júnior **
-- 🚀 Principais Skills:<br/>
+- 🚀 Principais Skills - Nível Intermediário:<br/>
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+  ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
   ![SEO](https://img.shields.io/badge/-SEO-414141?style=for-the-badge&logo=google-analytics)
-  ![WordPress](https://img.shields.io/badge/-WordPress-414141?style=for-the-badge&logo=google-word-press)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-336791?style=for-the-badge&logo=adobe-photoshop)
-  ![Photoshop](https://img.shields.io/badge/-Illustrator-black?style=for-the-badge&logo=adobe-illustrator)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
   ![Androi](https://img.shields.io/badge/-Android%20Studio-3b2e5a?style=for-the-badge&logo=android)
+  ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-336791?style=for-the-badge&logo=adobe-photoshop)
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-black?style=for-the-badge&logo=adobe-illustrator)
+  ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![Androi](https://img.shields.io/badge/-Android%20Studio-3b2e5a?style=for-the-badge&logo=android)
+
  
 
   
 - 💻 Aprendendo:
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=for-the-badge&logo=react)
-  ![Angular](https://img.shields.io/badge/-AngulaJS-red?style=for-the-badge&logo=angular)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![Flutter](  https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 
 
 - ⚡️ Curiosidade: Sempre Buscando Novos Conhecimentos
