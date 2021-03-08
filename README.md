@@ -4,7 +4,7 @@
  <abc/>
 </h2>
 
-<a href='https://www.linkedin.com/in/italoruan77/'><img align='center' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='20px'/></a>
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italoruan77/)](https://www.linkedin.com/in/italoruan77/)
 <br/>
 
 <img align="right" alt="GIF" src="https://i.postimg.cc/KzxNqLf6/Coding.gif" width="380px"/>
