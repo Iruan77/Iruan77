@@ -7,7 +7,7 @@
 </div>
 
 
-###  Sou desenvolvedor Front-end Júnior
+###  Sou desenvolvedor Web Front-end Júnior
 Formado em Análise e Desenvolvimento de Sistemas 🎓. 
 Tenho experiencia de 1 Ano como Estagiario de Front-end 💻. 
 Atualmente em busca de novas oportunidades para Colocar em prática cada vez mais as Habilidades como Desenvolvedor 👨‍💻.
@@ -15,8 +15,6 @@ Atualmente em busca de novas oportunidades para Colocar em prática cada vez mai
 -   🌱 Atualmente estou aprendendo desenvolvimento Front-end.
 -   🤔 Aprimorando diariamente `html`, `css`, `boostrap`, `javascript`, `SEO`
 -   💬 Fale comigo sobre Tecnologia, Cinema e Esportes.
--   ☕ Café move o mundo.
- 
 
 
 
