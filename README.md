@@ -1,6 +1,6 @@
 <div align = "center"> <img src= "https://miro.medium.com/max/16838/1*TVdM3xU44wzY4T_vvbp-jQ.png" width = "100%" > </div>
 
-<h2> Olá, Sou <a href="https://#"> Italo Ruan </a> <img src= "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width =" 35px "> 
+<h2> Olá, Sou <a href="https://#"> Italo Ruan </a> <img src= "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width =" 30px "> 
 </h2>
 
 [  ![Linkedin Badge](https://img.shields.io/badge/-Italoruan77-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italoruan77/)](https://www.linkedin.com/in/italoruan77/) [![Gmail Badge](https://img.shields.io/badge/-italoruan87@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:italoruan87@gmail.com "Connect via Email")
