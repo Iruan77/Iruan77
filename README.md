@@ -6,8 +6,8 @@
 [  ![Linkedin Badge](https://img.shields.io/badge/-Italoruan77-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italoruan77/)](https://www.linkedin.com/in/italoruan77/) [![Gmail Badge](https://img.shields.io/badge/-italoruan87@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:italoruan87@gmail.com "Connect via Email")
 </div>
 
-
 <img width="40%"  alt="GIF" align="right" src="https://miro.medium.com/max/1360/1*VON9gHTrzeHZbHfXsqfzEA.gif">
+
 
 <h3> Sou desenvolvedor Web Front-end Júnior </h3>
   <p> 
