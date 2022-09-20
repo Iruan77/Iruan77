@@ -12,9 +12,7 @@
 <h3> Sou desenvolvedor Web Front-end Júnior </h3>
   <p> 
   🎓 Formado em Análise e Desenvolvimento de Sistemas. <br/>
-  💻 experiencia em Dev. Front-end. <br/>
-  👨‍💻 Atualmente em busca de novas oportunidades para Colocar 
-   em prática cada vez mais as Habilidades como Desenvolvedor. 
+  💻 Experiencia em Desenvolvimento Front-end. <br/>
   </p>
       
 -   🎯 Carreira em Evolução Aprendendo Desenvolvimento Web Front-end.
