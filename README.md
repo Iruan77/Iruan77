@@ -9,12 +9,8 @@
 <img width="40%"  alt="GIF" align="right" src="https://miro.medium.com/max/1360/1*VON9gHTrzeHZbHfXsqfzEA.gif">
 
 
-<h3> Sou desenvolvedor Web Front-end Júnior </h3>
-  <p> 
-  🎓 Formado em Análise e Desenvolvimento de Sistemas. <br/>
-  💻 Experiencia em Desenvolvimento Front-end. <br/>
-  </p>
-      
+<h3>Desenvolvedor Web Front-end </h3>
+ 
 -   🎯 Carreira em Evolução Aprendendo Desenvolvimento Web Front-end.
 -   ⚡ Aprimorando diariamente `html`, `css`, `javascript`, `SEO`, `Photoshop`
 -   💬 Hobbies e assuntos sobre Tecnologia, Cinema e Esportes.
